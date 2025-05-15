@@ -659,7 +659,7 @@ body.scroll-down .header_un {
         padding-top: 16px;
     }
 }
-@media (max-width: 375px){
+@media (max-width: 500px){
     .section_5_title{
         padding-bottom: 43px;
     }
@@ -675,8 +675,8 @@ body.scroll-down .header_un {
         width: 375px;
     }
     .sec_5_1_img, .sec_5_2_img{
-        width: 347px;
-        height: 212px;
+                width: 94vw;
+        height: 58vw;
     }
     .sec_5_con_1 h4, .sec_5_con_2 h4{
         font-size: 16px;
